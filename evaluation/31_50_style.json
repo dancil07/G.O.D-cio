@@ -2,7 +2,7 @@
     "is_organic": false,
     "task_id": "68ac5cef-81f6-48b5-a338-cc7ffacb255e",
     "status": "success",
-    "model_id": "GHArt/Lah_Mysterious_SDXL_V4.0_xl_fp16",
+    "model_id": "dataautogpt3/CALAMITY",
     "ds": "concept_art_fd1b25e4-8f86-42dc-8149-51f20e9b1761",
     "account_id": "00000000-0000-0000-0000-000000000000",
     "times_delayed": 0,

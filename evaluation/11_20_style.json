@@ -2,7 +2,7 @@
     "is_organic": false,
     "task_id": "60f247f4-a6ac-415e-a0da-34cf70dac197",
     "status": "success",
-    "model_id": "dataautogpt3/ProteusV0.5",
+    "model_id": "dataautogpt3/CALAMITY",
     "ds": "line_art_and_pointillism_e7c9ffd0-3036-42ec-a694-ef7630a65761",
     "account_id": "00000000-0000-0000-0000-000000000000",
     "times_delayed": 0,

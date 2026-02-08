@@ -2,7 +2,7 @@
     "is_organic": false,
     "task_id": "dd3686c5-6296-4fe1-b8e1-7f18ca2f1c70",
     "status": "success",
-    "model_id": "SG161222/RealVisXL_V4.0",
+    "model_id": "dataautogpt3/CALAMITY",
     "ds": "cyberpunk_4cb2c2e5-43a0-4258-a0db-0c783c32d3d2",
     "account_id": "00000000-0000-0000-0000-000000000000",
     "times_delayed": 0,
