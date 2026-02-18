@@ -1,0 +1,345 @@
+{
+    "is_organic": false,
+    "task_id": "9a7bf2e5-37df-4e0c-b344-c2d6887d296f",
+    "status": "success",
+    "model_id": "OnomaAIResearch/Illustrious-xl-early-release-v0",
+    "ds": "person_80a02558-35b2-4fcf-b408-89922aae7579",
+    "account_id": "00000000-0000-0000-0000-000000000000",
+    "times_delayed": 0,
+    "hours_to_complete": 1,
+    "test_data": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/78f843e5b6b6c0e2_test_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150415Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8fce8b954c5dd16bf050d09631d9829e5bd9b3bc7c958a595433eeafb685f2a3",
+    "training_data": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/1672665451d22f1d_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150416Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d6892f1fd6c2f14fa7556bb55c69e274a7b7d40ad0478fdec7d337afe2bd5844",
+    "assigned_miners": null,
+    "miner_scores": null,
+    "training_repo_backup": null,
+    "created_at": "2026-02-12T15:03:25.839130Z",
+    "next_delay_at": "2026-02-12T15:03:25.867593Z",
+    "updated_at": "2026-02-13T10:05:55.368261Z",
+    "started_at": null,
+    "termination_at": "2026-02-12T16:03:25.839131Z",
+    "completed_at": null,
+    "task_type": "ImageTask",
+    "trained_model_repository": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5CChYXYr",
+    "result_model_name": null,
+    "yarn_factor": null,
+    "image_text_pairs": [
+        {
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/14019a2fd4ac3fdd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150316Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2efb1d85258ab89687cb27bd99ba9b855940d4860ce15c2ff5a5b54bc5a09e03",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/0fce1b708844335c.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150316Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6eabae10d2b8035e164ae714028b993e375b2ae9ae9543c209dbf32a0f5bbd1a"
+        },
+        {
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/facfb6fece8acddd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150316Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d2025ac5cd34302e4833605de73647ccf804e8f4b9ec45d1ce928b03217fae0b",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/d651f607f2eca7d8.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150317Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=785e3767a575db49a1ba626eb004c88d82a1cbfd862cb9ad1880188178dc0be6"
+        },
+        {
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/f068b1faa13f3757.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150317Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d2e2665074b53a0dfa1997ccc3192dfafdce8626144e7c56161e2307f62b6ed8",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/be6c00437b9f82ec.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150317Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8295da174c500478b53b83dcc07698ca6101b206fa8f8dcb0f1c7e78b3358a67"
+        },
+        {
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/d97dfbc2fa9d360e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150318Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cd9de5af9e2a1d259eef3a8a62104f86660b2ba64f4d1cdf6633d9a20c2792a3",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/b9425e350b9a2d05.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150318Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0bad783c11c26da4e654b423fbcf72694b8bf92f691328e8c9e11d658ce8b7db"
+        },
+        {
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/4473bb3d07786e28.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150319Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c0b77961cc3cc32d85a4b9d977ce9fa82da5d9d199fb399a3a7c04a41fde9bc6",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/6052df446b58214e.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150320Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c76f2cf24599b0b6c56646e985a7d94850049cf03cd275beedaa51aca5cb1d9f"
+        },
+        {
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/600db95d1d32369f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150321Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=951719df4cd4dd49a707f610b054d7714d33ed055cf3dd365e19f7d47ad19b26",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/ab474e06b356ff13.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150321Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d7087c71cca6bb29afb0d7fa29fe147005863c38f10387df299470885a29d3e9"
+        },
+        {
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/e895895a54db7ded.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150321Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=926452daedb272824936c8dd2190829e5df9b984c12a6252530e7efd3a5f6016",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/59d885ffe61d40dc.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150322Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ec2733a9e00902080f11bd8b1dfdc629ade3f991f2659c4bbf68bb0f5c688846"
+        },
+        {
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/fe62173e69e93bb4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150322Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0335d09c1c753f976a9370e187a9cbf99baec4eae08c37f671d31381b2b92fec",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/95c816f835b53edb.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150322Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3ccba0afd77f4627bc4696ffd7530b17e405cfb56c7f877e04ce65f506fd708b"
+        },
+        {
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/6a604db1654635dc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150323Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7da92febd3af45143c396fa96ad45b97f7f4971575a023666393decb548b9766",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/34d80d70a410350a.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150323Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fac7caf9b3ec648c7acf1be7453e0f306e3b341e6909e653328b4bb9575a0f95"
+        },
+        {
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/a5bfd97a072a88ce.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150324Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2d431046113ac4c97d178d3a10942b10782e0885f7d27a2bec4680bda2396852",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/6a5ab1d88887057e.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260212%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260212T150325Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dc04d5ded4ff83d3ebe53e5c900a2a4369f47b24c3bd92a7bf114ef429f54f9b"
+        }
+    ],
+    "model_type": "sdxl",
+    "hotkey_details": [
+        {
+            "hotkey": "5CChYXYrnrUVMHkEMydirtvMCFzUp229UgtvS6ZCwufHt6yD",
+            "submission_id": "ae2aa480-2450-46cb-ad46-aa55fab6574a",
+            "quality_score": 3,
+            "test_loss": 0.03936770982068884,
+            "synth_loss": 0.03936770982068884,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5CChYXYr",
+            "rank": 1,
+            "score_reason": "Ranked 1st by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5Ca32LwMizgx7VGESpkuRCYTsHZoVc9JX7gUML2enXSqpk3R",
+            "submission_id": "8a78dbd9-6e2f-49dc-a6b4-73b97afda346",
+            "quality_score": 0,
+            "test_loss": 0.041403506834843395,
+            "synth_loss": 0.041403506834843395,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5Ca32LwM",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5HWPK9f6vNYmcy6jyWwzDmuNMTZXVk5NdkZLcpFFpeYGZveF",
+            "submission_id": "9f8a6b7b-71ee-4e89-813a-7d2bdd22c2f0",
+            "quality_score": 0,
+            "test_loss": 0.04210870090258759,
+            "synth_loss": 0.04210870090258759,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5HWPK9f6",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5FZE3PL7BkmCxMMkgFaiBkeCK1v8uoCk6AcK2ttiPn5SFFo9",
+            "submission_id": "48952e25-a1da-4f0d-94a6-1100162cdb17",
+            "quality_score": 0,
+            "test_loss": 0.04188088235631442,
+            "synth_loss": 0.04188088235631442,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5FZE3PL7",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5GNP9XWdXKhMv7N494Z9ZR28gafpFfFgsDyW3qhyhagWar2W",
+            "submission_id": "7c70b2c3-111b-4e1c-915a-b0dc41701625",
+            "quality_score": 0,
+            "test_loss": 0.042725237159137446,
+            "synth_loss": 0.042725237159137446,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5GNP9XWd",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5Gy6X7q2xRxX5HZnC4ChwoTDcosc6ahTEf9D3wFSx9hGaum4",
+            "submission_id": "6658a403-a19d-49a4-ba18-26605ff0355b",
+            "quality_score": 0,
+            "test_loss": 0.04138971433428088,
+            "synth_loss": 0.04138971433428088,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5Gy6X7q2",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5Gzmup1uwC2JGdBwhJeE5YJec5foYLX6KD6XfQsNeEmzDtT4",
+            "submission_id": "6f065371-4ae2-48d7-b6ac-11351ab90840",
+            "quality_score": 0,
+            "test_loss": 0.04274413186899137,
+            "synth_loss": 0.04274413186899137,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5Gzmup1u",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5HEnT9uPcnHF74e5ZecYYNFkpkSNiMRrJik3STkJKWbnDaqy",
+            "submission_id": "cd7c9c26-353a-485a-af6b-dd5a691fea5b",
+            "quality_score": 0,
+            "test_loss": 0.04175645665182573,
+            "synth_loss": 0.04175645665182573,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5HEnT9uP",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5C7vE26G77n7CvUkAdgHKjT7scqfiNhWcaCg8WVyB8A57Mt1",
+            "submission_id": "6f7f1a10-fb4d-4f69-8c37-8bf8722ad80a",
+            "quality_score": 0,
+            "test_loss": 0.041360476490291107,
+            "synth_loss": 0.041360476490291107,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5C7vE26G",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5CoPDovc58jtEFSHzYdz2C6HG2cSphRrjicSKzCQWFjCggWN",
+            "submission_id": "77d81de8-c0a8-41b5-863b-0eaa4fde1348",
+            "quality_score": 0,
+            "test_loss": 0.04282831638971231,
+            "synth_loss": 0.04282831638971231,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5CoPDovc",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5CqicZdxkuTTVDmSiPunjmuVXFYkSDixq48hc46Ymicei9Dq",
+            "submission_id": "5971be7c-2aa2-4edc-b3b2-72da49b1eaaa",
+            "quality_score": 0,
+            "test_loss": 0.03985371024483642,
+            "synth_loss": 0.03985371024483642,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5CqicZdx",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5CZmqVf3V4bEXo72AwajUU9uDzM1Q1FDcjqYGkZUf3MgNmmR",
+            "submission_id": "b329d6d4-c1f3-402e-8e95-e4589daa578f",
+            "quality_score": 0,
+            "test_loss": 0.04267255713306266,
+            "synth_loss": 0.04267255713306266,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5CZmqVf3",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5DAYzssN1BQ8tiNMKNxaue3PHA2xS3c6PajUQ13xxapvvSuu",
+            "submission_id": "1586a2ca-ec68-487d-b14b-1f3994ac0eb2",
+            "quality_score": 0,
+            "test_loss": 0.042219836527271834,
+            "synth_loss": 0.042219836527271834,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5DAYzssN",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5DD5SMpm8rXUZkkZ5VM1oiTDiTG1NdWPmqHrJMEBHtUjrPvq",
+            "submission_id": "7100c1e5-c746-4eb9-a4da-dab613fe5bd6",
+            "quality_score": 0,
+            "test_loss": 0.04200296608099765,
+            "synth_loss": 0.04200296608099765,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5DD5SMpm",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5DiLgMeU8Uoc93MMtCfEtgqGeFudXHAMLWttYpVbKH1EKE3B",
+            "submission_id": "64e9add8-4c92-44f2-b875-8e9214cda0b4",
+            "quality_score": 0,
+            "test_loss": 0.041274498050371436,
+            "synth_loss": 0.041274498050371436,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5DiLgMeU",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5DP9sQ6ajSY22AkMvzTKv5hfTTm9rXSYiBWitgr4WJGicsaY",
+            "submission_id": "5721bda4-a246-472a-adac-2d4d51a3393d",
+            "quality_score": 0,
+            "test_loss": 0.04149146399485153,
+            "synth_loss": 0.04149146399485153,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5DP9sQ6a",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5Dt9U4c1PisbxJwMkfwVjaRgzSpe2zW28EKVoLbYNSWK6fC2",
+            "submission_id": "462fad3c-6644-44b5-bf13-c91576c2de59",
+            "quality_score": 0,
+            "test_loss": 0.04230068733269599,
+            "synth_loss": 0.04230068733269599,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5Dt9U4c1",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5DU8XuYR3S4EUDgVKBNt1WXGVA2L4VwNzUSEp45ytD3igVjw",
+            "submission_id": "f4d86e93-ce4b-4449-8864-7189a98fb326",
+            "quality_score": 0,
+            "test_loss": 0.04101591102810803,
+            "synth_loss": 0.04101591102810803,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5DU8XuYR",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5DUiZeLxFh993wFuQX8yzsWZyQUBV3jd2UuFQhDFey92XuWj",
+            "submission_id": "205c8b73-88f2-4d39-8b93-19b7be7d63fd",
+            "quality_score": 0,
+            "test_loss": 0.0405965265678348,
+            "synth_loss": 0.0405965265678348,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5DUiZeLx",
+            "rank": 2,
+            "score_reason": "Ranked below top 1 by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5CmAQ61VxoLhmvnCLB4UhahwKWsaSxRSzUbEJnZK5iPrMSSo",
+            "submission_id": "c4be6c5b-1ed4-4abc-95df-7ca34b1c2985",
+            "quality_score": -1,
+            "test_loss": 0.04341918871064499,
+            "synth_loss": 0.04341918871064499,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5CmAQ61V",
+            "rank": 20,
+            "score_reason": "Bottom 25% ranked by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5DfdHDKNjwCxFJq67Gt5CARcpK3YPkEFStPWvbxVWQCRDXwW",
+            "submission_id": "025acd89-13dd-42ed-8128-e1c6b9094d89",
+            "quality_score": -1,
+            "test_loss": 0.043272669255511965,
+            "synth_loss": 0.043272669255511965,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5DfdHDKN",
+            "rank": 20,
+            "score_reason": "Bottom 25% ranked by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5FxjAxYvqAtkmGe1yqRSeq18oKHuQU4jCxofn7Au9QQaeJYN",
+            "submission_id": "fbbf6fa4-08d8-42bc-a6a8-e94f80477c96",
+            "quality_score": -1,
+            "test_loss": 0.04303264113620169,
+            "synth_loss": 0.04303264113620169,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5FxjAxYv",
+            "rank": 20,
+            "score_reason": "Bottom 25% ranked by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5EP84KY9wr2QH64JrCZ2QXEH1KWr6w3Uu64CVHYiqRADG8BM",
+            "submission_id": "3be44d04-b7e2-4d27-90b5-a8441ce5b76d",
+            "quality_score": -1,
+            "test_loss": 0.043731932377671624,
+            "synth_loss": 0.043731932377671624,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5EP84KY9",
+            "rank": 20,
+            "score_reason": "Bottom 25% ranked by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5F53bVrVFTECTCZxFrcZdxFw2eNUuorFNm1rySTYx4B81RJa",
+            "submission_id": "ad322101-88cc-4d1b-b283-da913257b39f",
+            "quality_score": -1,
+            "test_loss": 0.04347048992849718,
+            "synth_loss": 0.04347048992849718,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5F53bVrV",
+            "rank": 20,
+            "score_reason": "Bottom 25% ranked by test_loss",
+            "offer_response": null
+        },
+        {
+            "hotkey": "5FW2Eaaehn1iGThGucki1YTtXRABhsMAHPQv14qqgLFzesGD",
+            "submission_id": "62e8e8cf-9e9e-48fc-b5fe-f4d7ad7a4f81",
+            "quality_score": -1,
+            "test_loss": 0.04343911964820315,
+            "synth_loss": 0.04343911964820315,
+            "repo": "gradients-io-tournaments/tournament-tourn_6794b4cf614185a9_20260212-9a7bf2e5-37df-4e0c-b344-c2d6887d296f-5FW2Eaae",
+            "rank": 20,
+            "score_reason": "Bottom 25% ranked by test_loss",
+            "offer_response": null
+        }
+    ]
+}
