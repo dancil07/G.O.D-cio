@@ -2,7 +2,7 @@
     "is_organic": false,
     "task_id": "9f3bac0a-9da2-4980-a3ad-19fca0151663",
     "status": "success",
-    "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+    "model_id": "SG161222/RealVisXL_V4.0",
     "ds": "person_71530600-c6a5-4a3e-bd83-d626b464d0ab",
     "account_id": "00000000-0000-0000-0000-000000000000",
     "times_delayed": 0,
